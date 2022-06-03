@@ -6,24 +6,24 @@
 
 <h1>HERE ARE THE ANSWERS TO WEEK 3 PROJECT</h1>
 
-<p>Project1: At work, we have to inventory the server some times. and this is all a manual effort. Also contractors not knowing the right commands to type causes the process to be complicated. So I have decided to write a little script that can be used to inventory the system.</p>
+                         <h2>PROJECT</h2>
+<h3>At work, we have to inventory the server some times. and this is all a manual effort. Also contractors not knowing the right commands to type causes the process to be complicated. So I have decided to write a little script that can be used to inventory the system.</h3>
+<p>Note: linode.com (cloud service for $5 a month to host ubuntu/cento server)</p>
 
-<p>#linode.com (cloud service for $5 a month to host ubintu/cento server)</p>
 
 
-
-<p>1 correct path</p>
+<p>1. correct path</p>
 <p>/opt/deployment/dev/deploy.cfg</p>
 
-<p>2cottents of success.txt</p>
+<p>2. cottents of success.txt</p>
 
 <p>If you found yourself here reading this, then very very good job to you!!!!
 Keep learning, keep struggling, keep fighting, very soon you will be so happy you did put in the work.
 success is the accumulation of small successful steps and this is one of them.</p>
 
-<p>3 vi /opt/staging/qa/prod/deployment/success.txt</p>
+<p>3. vi /opt/staging/qa/prod/deployment/success.txt</p>
 
-<p>4 linux</p>
+<p>4. linux</p>
 
 <p>5 Read only</p>
 
