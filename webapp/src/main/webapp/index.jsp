@@ -6,14 +6,13 @@
 
 <h1>HERE ARE THE ANSWERS TO WEEK 3 PROJECT</H1>
 
-<>Project1: At work, we have to inventory the server some times. and this is all a manual effort. Also contractors not knowing the right commands to type causes the process to be complicated. So I have decided to write a little script that can be used to inventory the system.</>
+<h>Project1: At work, we have to inventory the server some times. and this is all a manual effort. Also contractors not knowing the right commands to type causes the process to be complicated. So I have decided to write a little script that can be used to inventory the system.</h>
+
+<h>#linode.com (cloud service for $5 a month to host ubintu/cento server)</h>
 
 
-<>#linode.com (cloud service for $5 a month to host ubintu/cento server)</>
 
-
-
-1 correct path
+<p>1 correct path</p>
 /opt/deployment/dev/deploy.cfg
 
 2cottents of success.txt
