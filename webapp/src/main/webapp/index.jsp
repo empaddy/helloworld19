@@ -49,4 +49,4 @@ success is the accumulation of small successful steps and this is one of them.</
 <p>GIVING THIS A TRY IF IT WORKS...!!!</p>
 
 
-<p>This section is for DOCKER...!!!</p>
+<p>This section is for DOCKER and git should commit to docker not new change as we did using tomcat...!!!</p>
